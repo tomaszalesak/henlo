@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "projects": {
+    "application": "libs/application",
+    "application-test": "libs/application-test",
+    "domain": "libs/domain",
+    "domain-test": "libs/domain-test",
+    "infrastructure": "libs/infrastructure",
+    "infrastructure-test": "libs/infrastructure-test",
+    "spa": "apps/spa",
+    "spa-e2e": "apps/spa-e2e",
+    "webapi": "apps/webapi",
+    "webapi-test": "apps/webapi-test"
+  }
+}
